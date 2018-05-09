@@ -25,3 +25,5 @@ modificationMadeThroughOnlineBrowser
 this is post manual merge. :)
 
 interesting: I edited this file a few seconds ago but the change/merge DidntTake... 
+Oh. I found it. I had modifying the txt file on master not the branch. more manual merge practice.:
+another change through the web browser
