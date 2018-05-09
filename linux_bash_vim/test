@@ -21,3 +21,5 @@ ls -a lists all files in a directory (including hidden ones)
 
 change added to branchTest_Dev
 changeMadeFromVim_shouldbeInConflict
+modificationMadeThroughOnlineBrowser
+this is post manual merge. :)
