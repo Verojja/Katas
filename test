@@ -1,0 +1,22 @@
+this is a test
+Additional text to this file to test out the functionality of grep.
+grep stands for "global regular expression print".
+It's format is: grep [options] "PATTERN" file
+ex: grep --color "*.html" __file__    will highlight any matches in a file in red.
+
+ex. go to www.testThatGrep.com notAMatch.c0m fireMatch.com www.www.www.www.
+
+make a new file with mkdir
+rename a file with the move command mv
+copy a file with cp
+clip is the clipboard
+you can use the pipe character to tell the console where you want something forwarded |
+ls lists files in a directory
+ls -a lists all files in a directory (including hidden ones)
+"git init" creates a repo
+"git remote add origin" adds a server to a repo
+"git add" adds files / changes to the index
+"git commit" adds the files or changes in the index to the local HEAD
+"git push" saves the local HEAD to whatever remote server is set as origin, although I believe you can use options to change that further.
+
+
